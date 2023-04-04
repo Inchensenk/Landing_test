@@ -243,9 +243,7 @@
   height: 1747px;
 
 
-  mix-blend-mode: lighten;
-  box-shadow: inset 0px -128px 113px #000000;
-
+  
   position: absolute;
   top: 87px;
   left: 14px; 
@@ -258,10 +256,6 @@
   width: 2000px;
   height: 1747px;
 
-
-  mix-blend-mode: lighten;
-  box-shadow: inset 0px -128px 113px #000000;
-
   position: absolute;
   left: 7px;
   top: 1340px;
@@ -273,8 +267,6 @@
   top: 0;
   left: 0;
 
-  mix-blend-mode: lighten;
-  box-shadow: inset 0px -128px 113px #000000;
 
   width: 1920px;
   height: 2459px;
